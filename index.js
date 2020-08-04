@@ -11,9 +11,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 const mysql_setting = {
     host : 'localhost',
-    user : 'bottle_mail_db',
+    user : 'dbuser',
     database: 'bottle_mail_db',
-    password : 'dblec'
+    password : 'DB_lec_2020'
 }
 
 
